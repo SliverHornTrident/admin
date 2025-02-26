@@ -1,3 +1,3 @@
 //go:build mage
 
-package main
+package backend
