@@ -1,0 +1,18 @@
+# gorm mysql configuration
+Mysql:
+  Host: '127.0.0.1'
+  Port: '13307'
+  Config: 'charset=utf8mb4&parseTime=True&loc=Local'
+  Dbname: 'shadow'
+  Username: 'root'
+  Password: 'gdkid,,..'
+  MaxIdleCones: 10
+  MaxOpenCones: 100
+  ConnMaxLifetime: '24h'
+  ConnMaxIdleTime: '24h'
+  LoggerConfig:
+    LogZap: false
+    Colorful: true
+    LogLevel: 4
+    SlowThreshold: '1s'
+    IgnoreRecordNotFoundError: false

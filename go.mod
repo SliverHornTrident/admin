@@ -16,6 +16,7 @@ require (
 	github.com/gofiber/fiber/v2 v2.52.6
 	github.com/gofrs/uuid/v5 v5.2.0
 	github.com/mattn/go-colorable v0.1.13
+	github.com/nicksnyder/go-i18n/v2 v2.5.1
 	github.com/pkg/errors v0.9.1
 	github.com/qiniu/qmgo v1.1.8
 	github.com/spf13/viper v1.18.2
@@ -29,6 +30,7 @@ require (
 	gorm.io/driver/mysql v1.5.6
 	gorm.io/driver/postgres v1.5.7
 	gorm.io/driver/sqlserver v1.5.3
+	gorm.io/gen v0.3.26
 	gorm.io/gorm v1.25.10
 	gorm.io/plugin/dbresolver v1.5.0
 	gorm.io/plugin/soft_delete v1.2.1
@@ -159,6 +161,7 @@ require (
 	golang.org/x/arch v0.8.0 // indirect
 	golang.org/x/crypto v0.25.0 // indirect
 	golang.org/x/exp v0.0.0-20240719175910-8a7402abbf56 // indirect
+	golang.org/x/mod v0.19.0 // indirect
 	golang.org/x/net v0.27.0 // indirect
 	golang.org/x/sync v0.10.0 // indirect
 	golang.org/x/sys v0.28.0 // indirect
@@ -172,7 +175,8 @@ require (
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-	gorm.io/driver/sqlite v1.4.3 // indirect
+	gorm.io/datatypes v1.1.1-0.20230130040222-c43177d3cf8c // indirect
+	gorm.io/hints v1.1.0 // indirect
 	modernc.org/libc v1.50.6 // indirect
 	modernc.org/mathutil v1.6.0 // indirect
 	modernc.org/memory v1.8.0 // indirect
