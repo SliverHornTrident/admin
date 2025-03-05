@@ -1,0 +1,5 @@
+Gin:
+  Port: 6666
+  Node: ''
+  Host: '10.12.0.5'
+  Name: ''
