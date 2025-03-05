@@ -15,6 +15,7 @@ require (
 	github.com/godror/godror v0.44.2
 	github.com/gofiber/fiber/v2 v2.52.6
 	github.com/gofrs/uuid/v5 v5.2.0
+	github.com/magefile/mage v1.15.0
 	github.com/mattn/go-colorable v0.1.13
 	github.com/pkg/errors v0.9.1
 	github.com/qiniu/qmgo v1.1.8
